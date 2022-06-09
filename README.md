@@ -2,8 +2,4 @@
 
 ### `npm start`
 
-##React
-##Tailwind
-##Filters
-##Api
-##Animations
+React | Tailwind | Filters | Api | Animations
